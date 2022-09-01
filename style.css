@@ -6,3 +6,8 @@
 .h-line {
   border-bottom: 0.5px solid #857f7f;
 }
+
+.about-me {
+  background: url('./img/illustration-about-me.png') no-repeat right;
+  background-size: 40% 50%;
+}
